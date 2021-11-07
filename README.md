@@ -1,4 +1,4 @@
-# zebra_term_expansion_api
+#term_expansion_api
 **An api to call the different term expansion algorithms**
 
 ## API Usage
